@@ -1,6 +1,6 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Starkville.Win'
+description: 'Starkville.Win is a blog site for locals.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/mundana-theme-jekyll'
@@ -19,11 +19,11 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
+    jax:
+      name:           Jax
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      bio:            "Hi, I am Jax, an author of Starkville.Win. I hope you like it!"
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
@@ -31,7 +31,7 @@ authors:
       name:           Jane
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning diet coke!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
  
