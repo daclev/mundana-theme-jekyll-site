@@ -4,7 +4,7 @@
 [Download](https://github.com/dacleve/starkville.win/archive/master.zip) &nbsp; | &nbsp; 
 [Buy me a coffe](https://www.starkville.win/donate/) &nbsp; | &nbsp; [Documentation](https://starkville.win/) &nbsp; | &nbsp;
 
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
+![starkville.win](assets/images/screenshot.jpg)
 
 ### Copyright
 
